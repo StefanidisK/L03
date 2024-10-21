@@ -2,5 +2,5 @@
 
 
 # testing
-nums = 5
+nums = int(input())
 print(timesTable(nums))
